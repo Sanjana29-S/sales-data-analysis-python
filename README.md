@@ -88,6 +88,25 @@ These insights directly support **marketing optimization, inventory planning, an
 
 ---
 
+## 📊 Key Visual Insights
+
+### Monthly Sales Trend
+![Monthly Sales](Visualisations/monthly_sales.png)
+
+### Sales by City
+![Sales by City](Visualisations/sales_by_city.png)
+
+### Optimal Advertisement Timing
+![Ad Timing](Visualisations/ad_timing.png)
+
+### Top Selling Products
+![Top Products](Visualisations/top_products.png)
+
+### Price vs Quantity Relationship
+![Price vs Quantity](Visualisations/Price_vs_quantity.png)
+
+---
+
 ## 🛠 Tools & Skills Demonstrated
 - **Python**  
 - **Pandas** (data cleaning, transformation, aggregation)  
