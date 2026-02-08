@@ -103,7 +103,7 @@ These insights directly support **marketing optimization, inventory planning, an
 ![Top Products](Visualisations/top_products.png)
 
 ### Price vs Quantity Relationship
-![Price vs Quantity](Visualisations/Price_vs_quantity.png)
+![Price vs Quantity](Visualisations/price_vs_quantity.png)
 
 ---
 
