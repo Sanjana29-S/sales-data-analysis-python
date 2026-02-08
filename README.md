@@ -16,6 +16,25 @@ The objective is to use historical sales data to support **data-driven decision-
 
 ---
 
+## 📊 Key Visual Insights
+
+### Monthly Sales Trend
+![Monthly Sales](Visualizations/monthly_sales.png)
+
+### Sales by City
+![Sales by City](Visualizations/sales_by_city.png)
+
+### Optimal Advertisement Timing
+![Ad Timing](Visualizations/ad_timing.png)
+
+### Top Selling Products
+![Top Products](Visualizations/top_products.png)
+
+### Price vs Quantity Relationship
+![Price vs Quantity](Visualizations/price_vs_quantity.png)
+
+---
+
 ## 📂 Dataset Overview
 - **Time period:** 12 months  
 - **Records:** Hundreds of thousands of transactions  
@@ -86,24 +105,6 @@ These insights directly support **marketing optimization, inventory planning, an
 4. Which products are most often sold together?  
 5. Which product sold the most, and why?  
 
----
-
-## 📊 Key Visual Insights
-
-### Monthly Sales Trend
-![Monthly Sales](Visualizations/monthly_sales.png)
-
-### Sales by City
-![Sales by City](Visualizations/sales_by_city.png)
-
-### Optimal Advertisement Timing
-![Ad Timing](Visualizations/ad_timing.png)
-
-### Top Selling Products
-![Top Products](Visualizations/top_products.png)
-
-### Price vs Quantity Relationship
-![Price vs Quantity](Visualizations/price_vs_quantity.png)
 
 ---
 
