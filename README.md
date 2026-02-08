@@ -91,19 +91,19 @@ These insights directly support **marketing optimization, inventory planning, an
 ## 📊 Key Visual Insights
 
 ### Monthly Sales Trend
-![Monthly Sales](Vizualizations/monthly_sales.png)
+![Monthly Sales](Visualizations/monthly_sales.png)
 
 ### Sales by City
-![Sales by City](Vizualizations/sales_by_city.png)
+![Sales by City](Visualizations/sales_by_city.png)
 
 ### Optimal Advertisement Timing
-![Ad Timing](Vizualizations/ad_timing.png)
+![Ad Timing](Visualizations/ad_timing.png)
 
 ### Top Selling Products
-![Top Products](Vizualizations/top_products.png)
+![Top Products](Visualizations/top_products.png)
 
 ### Price vs Quantity Relationship
-![Price vs Quantity](Vizualizations/price_vs_quantity.png)
+![Price vs Quantity](Visualizations/price_vs_quantity.png)
 
 ---
 
